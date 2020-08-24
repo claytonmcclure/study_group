@@ -1,0 +1,14 @@
+1) Real World Example that requires sorting:
+	LTB / Linear in general, any application involving information retrieval
+2) Other measures of efficiency:
+	Cost, Time to Market
+3) Data Structures:
+	Hash Table, o(1) lookup for first element.  With collisions, tables can be complicated and slower.  Unsorted, poor for finding intersections, min, maxes, etc.
+4) How is shortest path and travelling salesman similar/diff:
+	They both involve minimizing a traversal, but shortest path is a to b.  Travelling salesman is a to b to n to a.  Also an efficient solution exists for shortest path.
+5)
+  A) Real world problem where only best solution:
+    A system where people's lives are at stake, such as auto pilot software.
+  B: Approximate solution:
+    Driving directions
+

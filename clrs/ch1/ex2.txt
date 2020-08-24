@@ -1,0 +1,5 @@
+1) Any, such as Netflix, recommendation engine.  Use historical selections as preference inference, then apply that to available choices to maximize similarity.
+
+2) When n < 8ln n, which happens when n <= 43.
+
+3) When is 100n^2 < 2^n?  15.  100 * 15^2 = 22500, 2^15=32768
